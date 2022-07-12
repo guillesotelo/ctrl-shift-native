@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ctrl-shift-rn",
+    "slug": "ctrl-shift-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ctrl-shift-rn"
+}
