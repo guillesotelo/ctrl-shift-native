@@ -1,0 +1,13 @@
+.barchart-container {
+    margin-top: 3vw;
+    width: 40%;
+}    
+
+
+@media only screen and (max-width: 640px) {
+    .barchart-container {
+        margin: 2vw;
+        width: 95%;
+        text-align: center;
+    }    
+}
